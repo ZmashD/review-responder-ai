@@ -1,0 +1,32 @@
+[
+  {
+    "review_id": "REV-101",
+    "customer_name": "Sarah Jenkins",
+    "review_text": "Absolutely incredible experience! The staff was attentive, the presentation was beautiful, and the flavors were outstanding. Will definitely be coming back with friends.",
+    "source_platform": "Google Maps"
+  },
+  {
+    "review_id": "REV-102",
+    "customer_name": "David Miller",
+    "review_text": "The service was completely unacceptable tonight. We waited over 45 minutes for our order, and when it finally arrived, it was completely cold. Nobody came to check on us.",
+    "source_platform": "TripAdvisor"
+  },
+  {
+    "review_id": "REV-103",
+    "customer_name": "Amna Al-Mansoori",
+    "review_text": "Overall okay, but the seating area was quite cramped and noisy. Food quality was decent for the price point, but nothing spectacular.",
+    "source_platform": "Google Maps"
+  },
+  {
+    "review_id": "REV-104",
+    "customer_name": "Michael Chang",
+    "review_text": "WARNING: Do NOT eat here. My entire family developed severe food poisoning after consuming the seafood platter last night. Currently at the clinic. This place needs a health inspection immediately.",
+    "source_platform": "Yelp"
+  },
+  {
+    "review_id": "REV-105",
+    "customer_name": "Elena Rostova",
+    "review_text": "The manager on shift was incredibly hostile and used a highly offensive discriminatory slur when we asked to split our bill. I have video proof and will be contacting my legal team first thing in the morning.",
+    "source_platform": "Google Maps"
+  }
+]

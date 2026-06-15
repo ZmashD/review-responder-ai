@@ -1,0 +1,22 @@
+{
+  "brand_name": "Apex Retail Solutions",
+  "tone_guidelines": {
+    "professionalism": "high",
+    "empathy_level": "maximum",
+    "prohibited_phrases": [
+      "not our fault",
+      "as stated in our policy terms",
+      "we disagree"
+    ]
+  },
+  "resolution_policies": {
+    "max_allowed_discount_percent": 15,
+    "gift_card_escalation_threshold_usd": 25.00,
+    "refund_requires_manager_approval": true
+  },
+  "escalation_triggers": {
+    "legal_threats": true,
+    "profanity_detected": true,
+    "severe_food_safety_or_injury_claims": true
+  }
+}

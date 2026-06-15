@@ -1,0 +1,14 @@
+{
+  "brand_name": "Suburban Boutique",
+  "tone": "luxurious, elegant, and highly formal",
+  "max_discount_allowed": "5%",
+  "prohibited_phrases": [
+    "sorry for the hassle",
+    "our bad",
+    "my mistake"
+  ],
+  "escalation_triggers": {
+    "legal_threats": true,
+    "damaged_items": true
+  }
+}

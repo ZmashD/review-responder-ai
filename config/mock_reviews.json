@@ -1,0 +1,20 @@
+[
+  {
+    "review_id": "REV_001",
+    "customer_name": "Alex Mercer",
+    "review_text": "I absolutely love this shop! The customer service was incredibly attentive, and my order arrived two days ahead of schedule. The packaging was pristine. 10/10 will buy again!",
+    "expected_type": "standard_positive"
+  },
+  {
+    "review_id": "REV_002",
+    "customer_name": "Jordan Blake",
+    "review_text": "The item I received looks completely different from the pictures online. The stitching is coming undone, and it feels incredibly cheap. I want a refund or a replacement immediately.",
+    "expected_type": "standard_negative_reconciliation"
+  },
+  {
+    "review_id": "REV_003",
+    "customer_name": "Taylor Vance",
+    "review_text": "Worst experience ever. The delivery driver threw the package at my door and broke the glass item inside. If your management team doesn't contact me to resolve this right now, I am filing a formal lawsuit against your company.",
+    "expected_type": "high_risk_escalation"
+  }
+]

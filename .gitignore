@@ -1,0 +1,15 @@
+# Local secret environment variables configuration profile
+.env
+
+# Python internal environment and execution artifacts
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local transactional SQLite storage binaries
+*.db
+*.sqlite3
+
+# Streamlit internal state caching directories
+.streamlit/
